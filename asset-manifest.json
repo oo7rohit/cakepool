@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/cakepool/static/css/main.66930967.css",
+    "main.js": "/cakepool/static/js/main.54cca7ae.js",
+    "static/media/Doughnutmonster-678xi.ttf": "/cakepool/static/media/Doughnutmonster-678xi.65740b1723a3a4f78157.ttf",
+    "static/media/tokenomic-bg-mobile.png": "/cakepool/static/media/tokenomic-bg-mobile.398e3c071745ea90ad9d.png",
+    "static/media/5300_2_02-ai 1.png": "/cakepool/static/media/5300_2_02-ai 1.babc826a4216fd8792ee.png",
+    "static/media/2452-ai 1.png": "/cakepool/static/media/2452-ai 1.44d32e141c52b7060add.png",
+    "static/media/6100_5_01-ai 1.png": "/cakepool/static/media/6100_5_01-ai 1.720b6dd6185cf88ede24.png",
+    "static/media/4500_6_06-ai-2 1.png": "/cakepool/static/media/4500_6_06-ai-2 1.2d21db4ca3c82154671a.png",
+    "static/media/18-04-ai 1.png": "/cakepool/static/media/18-04-ai 1.780e12a710d99c87f6ee.png",
+    "static/media/FontsFree-Net-Eigerdals4.ttf": "/cakepool/static/media/FontsFree-Net-Eigerdals4.74c6dbf0c44814f88ed1.ttf",
+    "static/media/buy-sell.svg": "/cakepool/static/media/buy-sell.2300c43b23c9547a90359b3feffab8aa.svg",
+    "static/media/sell.svg": "/cakepool/static/media/sell.0de8413554926446439b7d341e7dbb06.svg",
+    "static/media/community1.svg": "/cakepool/static/media/community1.0adcf03679d1d2ee463b83d63d9ff35d.svg",
+    "static/media/reward.svg": "/cakepool/static/media/reward.ab6ae6dc980c219c1deb87ff12c1c55e.svg",
+    "static/media/binance.svg": "/cakepool/static/media/binance.36af0173bc7c793ca18c94726f94622f.svg",
+    "static/media/insta1.svg": "/cakepool/static/media/insta1.1f3c94ff6599cc9e2c8480f6e5307658.svg",
+    "static/media/reddit1.svg": "/cakepool/static/media/reddit1.e410f937155b90ec4b6ede986d941eec.svg",
+    "static/media/EthereumCoin.svg": "/cakepool/static/media/EthereumCoin.4891697b3126ee5e633683ef7c7ce235.svg",
+    "static/media/twitter1.svg": "/cakepool/static/media/twitter1.87a4f22873149a15491e833c4afed1a3.svg",
+    "static/media/discord1.svg": "/cakepool/static/media/discord1.cbd5ce027c4e88ed1a428c5ec6eb972f.svg",
+    "static/media/tiktok1.svg": "/cakepool/static/media/tiktok1.bf19b096722538e6e54f949f8b5e3d40.svg",
+    "static/media/telegram1.svg": "/cakepool/static/media/telegram1.54b32bfefe73a4ce4d7e64f57e297725.svg",
+    "index.html": "/cakepool/index.html",
+    "static/media/twitter2.svg": "/cakepool/static/media/twitter2.b4314d71d08774d65e6b3a4ccc20f6eb.svg",
+    "main.66930967.css.map": "/cakepool/static/css/main.66930967.css.map",
+    "main.54cca7ae.js.map": "/cakepool/static/js/main.54cca7ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66930967.css",
+    "static/js/main.54cca7ae.js"
+  ]
+}
