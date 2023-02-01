@@ -5,20 +5,22 @@ export default function LoadingPage() {
     <>
     <div className='primary-content'>
         <section className='content'>
-
+                <div>
                 <ul className='word'>
-                    <li>C</li>
-                    <li>a</li>
-                    <li>k</li>
-                    <li>e</li>
+                    <li><p>C</p></li>
+                    <li><p>a</p></li>
+                    <li><p>k</p></li>
+                    <li><p>e</p></li>
                 </ul>
-
+                </div>
+                <div>
                 <ul className='word'>
-                    <li>P</li>
-                    <li>o</li>
-                    <li>o</li>
-                    <li>l</li>
+                    <li><p>P</p></li>
+                    <li><p>o</p></li>
+                    <li><p>o</p></li>
+                    <li><p>l</p></li>
                 </ul>
+                </div>
 
         </section>
     </div>

@@ -1,17 +1,19 @@
  .primary-header {
     z-index: 5;
-    padding-top: 3rem;
+    padding-top: 1rem;
     display: grid;
     place-items: center;
     font-family: 'Montserrat';
     position: sticky;
-    top: 0
+    top: 0;
   }
   
   .nav-wrapper {
+    padding: 1em 4em;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    border-radius: 30px;
   }
   
   .mobile-nav-toggle {
@@ -41,6 +43,9 @@
     align-items: center;
     color: white;
 }
+.logo p{
+  font-family: "Montserrat";
+}
 .button {
     display: inline-flex; 
   }
@@ -59,6 +64,11 @@
     }
 }
   @media (max-width: 50em) {
+    .nav-wrapper{
+      background-color: #00444c;
+      border-radius: 0;
+      padding: 0 1em;
+    }
     .primary-navigation {
       display: none;
       position: fixed;

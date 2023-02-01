@@ -25,6 +25,7 @@
   
   html,
   body {
+    overflow-x: hidden;
     height: 100%;
   }
   
@@ -129,11 +130,9 @@ html{
   text-decoration: none;
   border: 0;
   border-radius: 10px;
-  padding: 1em 2em;
-  font-weight: var(--fw-bold);
-  font-size: var(--fs-button);
+  font-weight: 600;
   line-height: 1;
   color: #007381;
   background-color: #61ecff;
-  box-shadow: 0 1.125em 1em -1em var(--clr-accent-500);
+  box-shadow: 0 1.125em 1em -1em;
 }
