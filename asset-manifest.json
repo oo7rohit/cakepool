@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cakepool/static/css/main.b1a854e3.css",
-    "main.js": "/cakepool/static/js/main.16d5a2f8.js",
+    "main.js": "/cakepool/static/js/main.c6ff1070.js",
     "static/media/tokenomic-bg.png": "/cakepool/static/media/tokenomic-bg.c3c75709acb537f17f31.png",
     "static/media/Doughnutmonster-678xi.ttf": "/cakepool/static/media/Doughnutmonster-678xi.65740b1723a3a4f78157.ttf",
     "static/media/tokenomic-bg-mobile.png": "/cakepool/static/media/tokenomic-bg-mobile.398e3c071745ea90ad9d.png",
@@ -29,10 +29,10 @@
     "index.html": "/cakepool/index.html",
     "static/media/telegram2.svg": "/cakepool/static/media/telegram2.1b548215aecc7793319aa7d1fa7ec9d3.svg",
     "main.b1a854e3.css.map": "/cakepool/static/css/main.b1a854e3.css.map",
-    "main.16d5a2f8.js.map": "/cakepool/static/js/main.16d5a2f8.js.map"
+    "main.c6ff1070.js.map": "/cakepool/static/js/main.c6ff1070.js.map"
   },
   "entrypoints": [
     "static/css/main.b1a854e3.css",
-    "static/js/main.16d5a2f8.js"
+    "static/js/main.c6ff1070.js"
   ]
 }
