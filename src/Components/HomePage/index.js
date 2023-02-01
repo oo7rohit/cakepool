@@ -50,7 +50,7 @@ export default function HomePage(props) {
                     else if(entry.target.classList.contains('p4')){
                         // entry.target.classList.remove('p4')
                         props.changeNav("#035D68")
-                        props.settextColor('#white')
+                        props.settextColor('white')
                     }
                 })
             }, options)
